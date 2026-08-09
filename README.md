@@ -23,7 +23,7 @@ comportementales.
 - Logistic Regression
 - Random Forest
 - Gradient Boosting
-- Tree decision
+- Decision tree
 - XBoost
 
 ## Évaluation
@@ -40,5 +40,3 @@ Les modèles sont comparés à l'aide de :
 
 Une analyse de l'importance des variables est réalisée
 avec le modèle Gradient Boosting.
-
-je
